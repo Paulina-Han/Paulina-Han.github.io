@@ -15,7 +15,7 @@ I took courses in Biostatistical Method, Probability, Mathematical Statistics, S
 
 I'm interested in analyzing high-dimensional data. My research mainly involves doing variable selection, dimension reduction through penalized regression and statistical learning methods.
 
-Learn more from [here](aboutme.html) and from my [resume](Han.Qingdou.Resume V1.pdf).
+Learn more from [here](about.html) and from my [resume](Han.Qingdou.Resume V1.pdf).
 
 ![](photo.jpg)
 
