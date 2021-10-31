@@ -1,0 +1,25 @@
+---
+title: "Qingdou(Paulina) Han"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+   
+---
+
+# About me
+
+My name is Qingdou(Paulina) Han, a first year M.S. student in biostatistics department , the Mailman School of Public Health in [Columbia University in the city of New York](https://www.columbia.edu/). And I completed my bachelor degree in statistics in [Beijing Normal University](https://www.bnu.edu.cn/).
+
+I took courses in Biostatistical Method, Probability, Mathematical Statistics, Statistical Learning, Data Science, Mathematical Modelling, Applied Time-Series, Linear Model, Stochastic Process and Statistical Computing.
+
+I'm interested in analyzing high-dimensional data. My research mainly involves doing variable selection, dimension reduction through penalized regression and statistical learning methods.
+
+Learn more from [here](aboutme.html) and from my [resume](Han.Qingdou.Resume V1.pdf).
+
+![](photo.jpg)
+
+# Contact
+Tel: +1 (607)-601-0176 [The United State] OR +86 185-091-7617 [China]
+
+Email:<paulinahan15@gmail.com> OR <qh2251@cumc.columbia.edu>
