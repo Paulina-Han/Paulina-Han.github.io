@@ -12,7 +12,7 @@ navbar:
     - icon: fa-github fa-lg
       href: http://github.com/Paulina-Han/
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/qingdou%EF%BC%88paulina%EF%BC%89-han-820069218/
+      href: http://www.linkedin.com/in/qingdou（paulina）-han-820069218
 output:
   html_document:
     theme: flatly
