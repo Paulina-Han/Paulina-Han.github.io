@@ -10,31 +10,55 @@ output:
 
 ## Education
 
-**Columbia University in the city of New York** (M.S. in Biostatistics, Theory and Methods)<p align="right">09/2021 – expected 05/2023</p>
+**Columbia University in the city of New York** (M.S. in Biostatistics, Theory and Methods) [09/2021 – expected 05/2023]{style="float:right"}
 
-**Beijing Normal University** (B.S. in Statistics)<p align="right">09/2017 - 06/2021</p>   
+**Beijing Normal University** (B.S. in Statistics) [09/2017 -
+06/2021]{style="float:right"}   
 
-**University of California, Berkeley** (International Study Program,Statistics)<p align="right">01/2020 - 05/2020</p>       
+**University of California, Berkeley** (International Study Program,Statistics) [01/2020 - 05/2020]{style="float:right"}     
 
 
 
 
 ## Internship
 
-<br/>
 
+**Deloitte Touche Tohmatsu Certified Public Accountants LLP Beijing Branch** [Beijing, China]{style="float:right"}
 
-**Deloitte Touche Tohmatsu Certified Public Accountants LLP Beijing Branch**<p align="right">Beijing, China</p>
-*Data Analyst Intern*<p align="right">11/2020 – 2/2021</p>
+*Data Analyst Intern* [11/2020 – 2/2021]{style="float:right"}
 
 -	Studied the given business process and determined the relevant sources of information under supervision.
 -	Conducted tests both traditional and specially adapted tailored to the needs of different client together with team members.
 - Performed data analysis and visualization of results.
 
 
+**Chinese National Center for Cardiovascular Diseases, Department of Medical Statistics**[Beijing, China]{style="float:right"}
 
-**Chinese National Center for Cardiovascular Diseases, Department of Medical Statistics**<p align="right">Beijing, China</p>
-*Intern*<p align="right">08/2020 - 10/2020</p>                                                
+*Intern*[08/2020 - 10/2020]{style="float:right"}                                    
+
 -	Studied FDA guidelines of follow-on companion diagnosis and evaluation of drug efficiency.
+
 -	Drew report of the statistical evaluation of FCD via the external concordance study and survival analysis using Cox model and Bayesian model.
+
+
+## Research
+
+
+**Estimation of the infarct volume in patients with ischemic stroke** [Beijing Normal University ]{style="float:right"}
+
+*Advisor: Professor Gaorong Li* [8/2020 – 3/2021]{style="float:right"}
+
+-	Performed univariate analysis on high dimensional clinical data.
+-	Employed inverse probability of treatment weighting method based on propensity score to fill in missing response values.
+- Conducted SCAD penalty to realize variable selection in linear model.
+- Compared the MSE between model without implementation and model without variable selection.
+
+**Use of Statistical Method among BNU Undergraduate Students** [Beijing Normal University ]{style="float:right"}
+
+*Advisor: Professor Jiao Jin* [3/2018 – 3/2019]{style="float:right"}
+
+-	Collected the research paper of undergraduate students across 22 departments from websites by web scraping.
+-	Cleaned and classified the data by the use of different statistical methods.
+- Applied cluster analysis and ANOVA analysis among different clusters and compared their preference of the usage of statistical methods
+- Visualized the outcome and concluded the characteristics of different departments based on their preference in statistical methods.
 
